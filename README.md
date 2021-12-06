@@ -11,11 +11,11 @@
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/saif-ali-6b88671b1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:arakibulislam@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/R.I.Akash/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://github.com/arakibulislam"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:devilsaif20@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/saifali.apurbo/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://github.com/Apurbo20"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arakibulislam&label=Akash's%20Profile%20Views%20&color=dc143c&style=flat-square" alt="arakibulislam" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Apurbo20&label=Akash's%20Profile%20Views%20&color=dc143c&style=flat-square" alt="Apurbo20" /> </p>
 
 ## 🛠️ My Skills
 
