@@ -136,9 +136,15 @@
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/14581496/md-rokibul-hasan)
 
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> 
+
 <details>
  <summary>🏆 Github Profile Trophy</summary>
  </br>
+ <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=Apurbo20&column=8&theme=darkhub"/>
+  </a>
+ </p>
 </details>
 
 [portfolio]: https://rokibulhasan.xyz
