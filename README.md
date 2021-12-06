@@ -66,8 +66,8 @@
 
 <p align="center">
 <a href="https://github.com/Apurbo20">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arakibulislam&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arakibulislam&layout=compact&langs_count=8&theme=calm"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Apurbo20&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Apurbo20&layout=compact&langs_count=8&theme=calm"/>
 </a>
 </p>
 
