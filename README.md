@@ -138,4 +138,8 @@
 [github]: https://github.com/hasan1119
 [linkedin]: https://www.linkedin.com/in/md-rokibul-hasan
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Apurbo20)  
+
+![GitHub metrics](https://metrics.lecoq.io/Apurbo20)  
+
 # Apurbo20
