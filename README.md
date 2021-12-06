@@ -3,19 +3,11 @@
  <a href="https://github.com/Apurbo20/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23CF690E&size=30&center=true&vCenter=true&width=500&height=30&lines=Web+Developer;Saif+Ali+Apurbo"></a>
 </p>
 <hr/>
-
 <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 <h1 align="center">HI, I Am Md. Saif Ali Apurbo, A Professional Web Application Developer</h1>
-
 <h3 align="left">I am a MERN stack WEB DEVELOPER with having 1 years of experience. I am working as a Full Stack web developer(MERN).</h3>
-
-<h1 align="left">Hi , I'm Akash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
- <a href="https://github.com/Apurbo20/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23CF690E&size=30&center=true&vCenter=true&width=500&height=30&lines=Web+Developer;Saif+Ali+Apurbo"></a>
-</p>
 <hr/>
-<h4 align="center">I am a Junior front-end Web Developer. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a Junior front-end Web Developer from Bangladesh.Currently studiyng in B.sc in Software Engineering at Daffodil International University. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/arakibulislam/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
