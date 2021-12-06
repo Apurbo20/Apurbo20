@@ -85,7 +85,7 @@
 ## 🔥 Streak Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Apurbo20&theme=calm" alt="Apurbo20" /></p>
-<p align="left"> <a href="https://www.instagram.com/_saif_double_a_/" target="blank"><img src="https://img.shields.io/instagram/follow/md_rokibulhasan?logo=instagram&style=for-the-badge" alt="_saif_double_a_" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/_saif_double_a_/" target="blank"><img src="https://img.shields.io/twitter/follow/_saif_double_a_?logo=twitter&style=for-the-badge" alt="_saif_double_a_" /></a> </p>
 
 - 💬 Ask me about **HTML, CSS, BootStrap, JavaScript, React, Node**.
 
