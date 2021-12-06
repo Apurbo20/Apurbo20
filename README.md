@@ -4,13 +4,13 @@
 </p>
 <hr/>
 <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
-<h1 align="center">HI, I Am Md. Saif Ali Apurbo, A Professional Web Application Developer</h1>
+<h1 align="center">Myself Md. Saif Ali Apurbo, A Professional Web Application Developer</h1>
 <h3 align="left">I am a MERN stack WEB DEVELOPER with having 1 years of experience. I am working as a Full Stack web developer(MERN).</h3>
 <hr/>
 <h4 align="center">I am a Junior front-end Web Developer from Bangladesh.Currently studiyng in B.sc in Software Engineering at Daffodil International University. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/arakibulislam/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/saif-ali-6b88671b1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:arakibulislam@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/R.I.Akash/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://github.com/arakibulislam"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
