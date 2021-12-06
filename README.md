@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ## 👋 &nbsp;Hey there! I'm Saif -->
 
 <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 <h1 align="center">HI, I Am Md. Saif Ali Apurbo, A Professional Web Application Developer</h1>
@@ -9,7 +9,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Akash -->
 <p align="center">
- <a href="https://github.com/Apurbo20/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23CF690E&size=30&center=true&vCenter=true&width=500&height=30&lines=Web+Developer;Rakibul+Islam+Akash"></a>
+ <a href="https://github.com/Apurbo20/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23CF690E&size=30&center=true&vCenter=true&width=500&height=30&lines=Web+Developer;Saif+Ali+Apurbo"></a>
 </p>
 <hr/>
 <h4 align="center">I am a Junior front-end Web Developer. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
