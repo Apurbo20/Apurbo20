@@ -138,7 +138,7 @@
 
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> 
 
-<details>
+<!-- <details> -->
  <summary>🏆 Github Profile Trophy</summary>
  </br>
  <p align="center">
@@ -146,7 +146,7 @@
    <img src="https://github-profile-trophy.vercel.app/?username=Apurbo20&column=8&theme=darkhub"/>
   </a>
  </p>
-</details>
+<!-- </details> -->
 
 [portfolio]: https://rokibulhasan.xyz
 [twitter]: https://twitter.com/md_rokibulhasan
