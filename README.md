@@ -5,7 +5,7 @@
 <hr/>
 <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 <h1 align="center">Myself Md. Saif Ali Apurbo, A Professional Web Application Developer</h1>
-<h3 align="left">I am a MERN stack WEB DEVELOPER.<br>I Have 1 years of experience in this field.<br> I am working as a Full Stack web developer(MERN).</h3>
+<h3 align="left">I am a MERN stack WEB DEVELOPER.<br>I Have 1 years of experience in this field.<br> I am working as a Front-End web developer.</h3>
 <br>
 <hr/>
 <h4 align="center">I am a Junior front-end Web Developer from Bangladesh.Currently studiyng in B.sc in Software Engineering at Daffodil International University. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
